@@ -1,0 +1,13 @@
+class ExceptionsQ1b
+{
+	public static void main(String args[])
+	{
+	try
+	{
+	int array[]= new int[5];
+
+}
+catch( ArrayIndexOutOfBoundException e){Sysem.out.println(array[10]);}
+}
+System.out.println( " Rest of the code")
+}
